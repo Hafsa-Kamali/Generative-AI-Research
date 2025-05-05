@@ -2,6 +2,12 @@
 
 # 📘 Generative AI: A Deep Research Overview
 
+## ✨ Read the Full Research
+
+📖 **Read the complete blog post here**:  
+👉 [Generative AI – A Deep Research Report](https://medium.com/@hafsakamali362/generative-ai-a-deep-research-report-50887f72b512)
+
+---
 
 Welcome to my detailed research project on **Generative AI** — a modern revolution in the field of Artificial Intelligence where machines are no longer just thinkers, but creators.
 
